@@ -1,3 +1,10 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 <img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" class="center">
 
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
