@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Machine Learning and Cloud Computing
+- 🌱 I’m currently learning Algorithms, Information Retrieval and Computer Vision
+- 👯 I’m looking to collaborate on papers in Machine Learning
+- 😄 Pronouns: She/Her
+
+
+
 <!--
 **subhasrim2001/subhasrim2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
