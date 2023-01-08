@@ -1,10 +1,3 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Machine Learning and Cloud Computing
-- 🌱 I’m currently learning Algorithms, Information Retrieval and Computer Vision
-- 👯 I’m looking to collaborate on papers in Machine Learning
-- 😄 Pronouns: She/Her
-
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
 
@@ -15,6 +8,8 @@
 - 🌱 I’m currently learning **Algorithms, Information Retrieval and Computer Vision**
 
 - 👯 I’m looking to collaborate on **papers in Machine Learning**
+
+- 😄 Pronouns: She/Her
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
