@@ -1,4 +1,4 @@
-<center><p style="text-align:center;"><img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"></p></center>
+<center><img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"></center>
 
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
