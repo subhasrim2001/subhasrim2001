@@ -1,5 +1,4 @@
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center" width="1700" height="700">
-<img src="https://img.freepik.com/premium-vector/woman-working-with-computer-home-office-student-freelancer-customer-service-call-center-support_113065-1269.jpg?w=740" width="1500">
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center" width="1700" height="500">
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhasrim2001" alt="subhasrim2001" /></a> </p>
@@ -27,6 +26,8 @@
 
 <!--
 **subhasrim2001/subhasrim2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://img.freepik.com/premium-vector/woman-working-with-computer-home-office-student-freelancer-customer-service-call-center-support_113065-1269.jpg?w=740" width="1500">
 
 Here are some ideas to get you started:
 
