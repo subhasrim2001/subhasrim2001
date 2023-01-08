@@ -5,7 +5,7 @@
   width: 50%;
 }
 
-<img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" class="center">
+<img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" display="block" margin-left="auto" margin-right="auto">
 
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
