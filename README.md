@@ -1,11 +1,4 @@
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
-<img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" display="block" margin-left="auto" margin-right="auto">
+<center><img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"></center>
 
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
