@@ -1,6 +1,6 @@
-<img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" class="center">
 
-<h1 aligh="center">Hi 👋, I'm Subhasri Manigandan</h1>
+<h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhasrim2001" alt="subhasrim2001" /></a> </p>
