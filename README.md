@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center" width="1700">
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center" width="1700" height="700">
 <img src="https://img.freepik.com/premium-vector/woman-working-with-computer-home-office-student-freelancer-customer-service-call-center-support_113065-1269.jpg?w=740" width="1500">
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
