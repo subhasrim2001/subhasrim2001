@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center" width="1700" height="500">
+<img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center" width="1700" height="700">
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhasrim2001" alt="subhasrim2001" /></a> </p>
