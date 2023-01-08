@@ -1,8 +1,7 @@
-<img align="center" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
-
+<img align="center" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhasrim2001" alt="subhasrim2001" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning and Cloud Computing**
