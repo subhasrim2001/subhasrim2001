@@ -1,12 +1,5 @@
-#presentation-highlights {
-text-align:center;
-width:100%;
-display:block;
-margin:auto;
-}
-
-
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center">
+<img src="https://img.freepik.com/premium-vector/woman-working-with-computer-home-office-student-freelancer-customer-service-call-center-support_113065-1269.jpg?w=740" text-align="center">
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
 <h3 align="center">A passionate developer from PSG College of Technology</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhasrim2001" alt="subhasrim2001" /></a> </p>
