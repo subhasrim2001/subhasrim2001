@@ -1,13 +1,13 @@
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" text-align="center" width="1700" height="700">
 <h1 align="center">Hi 👋, I'm Subhasri Manigandan</h1>
-<h3 align="center">A passionate developer from PSG College of Technology</h3>
+<h3 align="center">A passionate developer, with a Masters in Computer Science</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhasrim2001" alt="subhasrim2001" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning and Cloud Computing**
+- 🔭 I’m currently working on **Artificial Intelligence, Machine Learning and Software Testing**
 
-- 🌱 I’m currently learning **Algorithms, Information Retrieval and Computer Vision**
+- 🌱 I’m currently learning **all the new trends in AI, as well as other domains**
 
-- 👯 I’m looking to collaborate on **papers in Machine Learning**
+- 👯 I’m looking to collaborate on **papers/projects in AI/ML**
 
 - 😄 Pronouns: She/Her
 
